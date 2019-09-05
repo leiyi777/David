@@ -2,4 +2,4 @@ Name: LEI Yi
 
 Student id: 20493722
 
-![alt text](http://img.png)
+![alt text](http://https://github.com/leiyi777/comp3111-lab1-demo/img.png)
